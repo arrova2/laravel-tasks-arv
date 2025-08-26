@@ -114,3 +114,8 @@ php artisan optimize:clear
 php artisan test
 ```
 
+# Git
+Les dejo por este medio la ruta de git para descargar el proyecto o hacer fork:
+```bash
+https://github.com/arrova2/laravel-tasks-arv
+```
